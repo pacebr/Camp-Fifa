@@ -1,0 +1,10 @@
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\obj\Debug\CampFifaTeste1.csproj.AssemblyReference.cache
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\obj\Debug\CampFifaTeste1.Properties.Resources.resources
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\obj\Debug\CampFifaTeste1.csproj.GenerateResource.cache
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\obj\Debug\CampFifaTeste1.csproj.CoreCompileInputs.cache
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\obj\Debug\CampFifaTeste1.Form1.resources
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\bin\Debug\CampFifaTeste1.exe.config
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\bin\Debug\CampFifaTeste1.exe
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\bin\Debug\CampFifaTeste1.pdb
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\obj\Debug\CampFifaTeste1.exe
+C:\Users\vgdsn\source\repos\CampFifaTeste1\CampFifaTeste1\obj\Debug\CampFifaTeste1.pdb
