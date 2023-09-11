@@ -16,7 +16,7 @@ namespace CampFifa
        
         private static SqlConnection conexaoBanco()
         {
-            conexao = new SqlConnection(@"Data Source=localhost\SQLEXPRESS; integrated security=SSPI;initial catalog=campeonato");
+            conexao = new SqlConnection(@"Data Source=SJC0562934W10-1; User ID=sa; Password=Senac123; Initial Catalog=campeonato"); //(@"Data Source=localhost\SQLEXPRESS; integrated security=SSPI;initial catalog=campeonato");//(@"Data Source=localhost\SQLEXPRESS; integrated security=SSPI;initial catalog=campeonato");
             conexao.Open();
             return conexao;
         }
