@@ -1,7 +1,5 @@
 ﻿using CampFifa;
 using System;
-using System.Data;
-using System.Data.SqlClient;
 using System.Windows.Forms;
 
 namespace CampFifaTeste1
@@ -113,7 +111,6 @@ namespace CampFifaTeste1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Não preencha as ComboBoxes aqui; faça isso quando o usuário entrar nelas.
             this.ActiveControl = null;
             cb_nj.Text = "";
         }
